@@ -1,0 +1,1 @@
+print("What is the biggest joke? My life.")
